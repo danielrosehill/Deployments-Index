@@ -9,11 +9,15 @@ A periodically updated index of deployment-related repositories — deployment s
 
 ---
 
-## Repositories
+## My Stacks
+
+My own components deployed together.
 
 | Repository | Description | Links |
 |------------|-------------|-------|
-| **Open Claw Stack** | | [![View Repository](https://img.shields.io/badge/View-Repository-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Open-Claw-Stack) |
+| **Open Claw Stack** | Deployment stack bundling Open Claw with components | [![View Repository](https://img.shields.io/badge/View-Repository-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Open-Claw-Stack) |
+| **Red Alert Monitoring Stack** | Microservices Docker stack for Pikud HaOref red alert monitoring, home automation, and real-time visualization | [![View Repository](https://img.shields.io/badge/View-Repository-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Red-Alert-Monitoring-Stack) |
+| **OpenWebUI Postgres Qdrant** | Docker Compose for OpenWebUI + Postgres + Qdrant | [![View Repository](https://img.shields.io/badge/View-Repository-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/OpenWebUI-Postgres-Qdrant) |
 
 ---
 
