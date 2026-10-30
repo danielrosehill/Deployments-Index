@@ -7,6 +7,8 @@
 
 A periodically updated index of deployment-related repositories — deployment scripts, infrastructure configurations, and tools for deploying applications and services.
 
+**Last Updated:** October 2026
+
 ---
 
 ## My Stacks
